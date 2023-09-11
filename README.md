@@ -3,11 +3,11 @@ Included are the client side-scripts for access to the TAQ-Clickhouse Database r
 
 Reccomended for advanced users only who are familiar with GitHub, Conda, and Linux
 
-Instructions for access through the SQL UI DBeaver are  included in Accessing the TAQ-Clickhouse Database PDF
+Instructions for access through the SQL UI DBeaver are included in Accessing the TAQ-Clickhouse Database PDF
 
 ### Local Setup
 - Pull the repo 'TAQ-Query-Scripts-Public' from Github
-- Setup the conda environment using the environment.yml file
+- Setup the conda environment using the query_user_environment.yml file
 - Create a directory called `data` in the root directory of the repo
 - Create subdirectories called `raw_data` and `features` in the data directory of the repo
 - Create an .env file in the root directory of the repo with the following variables:
