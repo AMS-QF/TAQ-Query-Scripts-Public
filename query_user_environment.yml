@@ -4,7 +4,6 @@ channels:
 - conda-forge
 - bioconda
 - anaconda
-  - conda-forge
   - defaults
 dependencies:
   -  _libgcc_mutex
