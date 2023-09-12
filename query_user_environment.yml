@@ -7,7 +7,6 @@ channels:
 - defaults
 dependencies:
   -  _libgcc_mutex
-  -  _openmp_mutex
   -  blas
   -  bzip2
   -  ca-certificates
@@ -20,9 +19,6 @@ dependencies:
   -  korean_lunar_calendar
   -  ld_impl_linux-64
   -  libffi
-  -  libgcc-ng
-  -  libgomp
-  -  libstdcxx-ng
   -  libuuid
   -  mkl
   -  mkl_fft
