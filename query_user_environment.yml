@@ -35,9 +35,11 @@ dependencies:
   -  python
   -  python-dateutil
   -  python_abi
+  -  python-dotenv
   -  pytz
   -  requests
   -  setuptools
+  -  scp
   -  six
   -  sqlite
   -  tk
